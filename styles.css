@@ -14,12 +14,15 @@ body {
     padding: 40px;
 }
 
+div {
+  margin-bottom: 20px;
+}
+
 .header-wrapper {
     display: grid;
     gap: 10px;
-    margin-bottom: 40px;
 }
 
-.hobbies-wrapper {
+.lists-wrapper {
     margin-left: 20px;
 }
