@@ -11,10 +11,15 @@ body {
     background: rgb(158,242,184);
     background: linear-gradient(0deg, rgba(158,242,184,1) 0%, rgba(174,242,244,1) 100%);
     background-repeat: no-repeat;
+    padding: 40px;
 }
 
 .header-wrapper {
-    margin: 40px;
     display: grid;
     gap: 10px;
+    margin-bottom: 40px;
+}
+
+.hobbies-wrapper {
+    margin-left: 20px;
 }
