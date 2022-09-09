@@ -26,3 +26,7 @@ div {
 .lists-wrapper {
     margin-left: 20px;
 }
+
+.city-wrapper {
+    max-width: 800px;
+}
